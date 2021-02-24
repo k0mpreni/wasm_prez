@@ -119,7 +119,7 @@ Native is faster than JS
 
 ## Cons
     - Can be complex to get in
-    - Not a log of documentation
+    - Not a lot of documentation
     - If need to emulate a native behavior, it can lead to poor performances.
     - New ways to create security flaws (Browser exploits, keyloggers)
 
